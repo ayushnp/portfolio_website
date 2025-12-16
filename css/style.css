@@ -2,7 +2,7 @@
    AUTO 90% ZOOM FOR DESKTOP BROWSERS
    ======================================== */
 
-/* Desktop browsers - 90% zoom */
+/* Desktop browsers - 90% zoom
 @media screen and (min-width: 992px) {
     html {
         zoom: 1.0;
@@ -12,7 +12,7 @@
 }
 
 /* Tablets - keep at 100% */
-@media screen and (min-width: 768px) and (max-width: 991px) {
+/* @media screen and (min-width: 768px) and (max-width: 991px) {
     html {
         zoom: 1;
         transform: none;
@@ -20,12 +20,12 @@
 }
 
 /* Mobile - keep at 100% */
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) {
     html {
         zoom: 1 !important;
         transform: none !important;
     }
-}
+} */ */ */
 
 /* ======================================== */
 
